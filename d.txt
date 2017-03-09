@@ -1,0 +1,83 @@
+[33mcommit 8a371917a630bc534a0e37f986a15aaac056e159[m
+Author: ashfaqul <ashhaq12345@gmail.com>
+Date:   Thu Mar 9 12:36:35 2017 +0600
+
+    direct commit without adding
+
+[33mcommit 4487497093c2a55d716d8a89865d6bc17be43f1e[m
+Author: ashfaqul <ashhaq12345@gmail.com>
+Date:   Thu Mar 9 12:28:28 2017 +0600
+
+    rename and move to new folder
+
+[33mcommit 68b488153f791672791b135bbaf48582729a7daa[m
+Author: ashfaqul <ashhaq12345@gmail.com>
+Date:   Thu Mar 9 12:25:21 2017 +0600
+
+    rename demo.txt to s.txt
+
+[33mcommit 59352ada64939911e4baf29f66e7d7eda8407dc7[m
+Author: ashfaqul <ashhaq12345@gmail.com>
+Date:   Thu Mar 9 12:21:47 2017 +0600
+
+    Deleting demo3
+
+[33mcommit 2585a616a026a585a2ac206f535e4cdd5e48f883[m
+Author: ashfaqul <ashhaq12345@gmail.com>
+Date:   Thu Mar 9 12:19:57 2017 +0600
+
+    diff between staging area
+
+[33mcommit 27401251311a6d40c5bac6f3057d486208b09a6d[m
+Author: ashfaqul <ashhaq12345@gmail.com>
+Date:   Thu Mar 9 12:17:01 2017 +0600
+
+    Seeing diff in 2 files demo2 demo3
+
+[33mcommit c963b3579d45d6962a3f7d3145a4578cd523aa47[m
+Author: ashfaqul <ashhaq12345@gmail.com>
+Date:   Thu Mar 9 12:15:23 2017 +0600
+
+    checking diif and commit demo3
+
+[33mcommit 780dfe32ad6f06fd041ab183ed4b53e1f0e182bd[m
+Author: ashfaqul <ashhaq12345@gmail.com>
+Date:   Thu Mar 9 12:13:23 2017 +0600
+
+    Changing demo and demo1
+
+[33mcommit 0e77fb5edc73bfdf694e4e7052de03d07fc166ac[m
+Author: ashfaqul <ashhaq12345@gmail.com>
+Date:   Thu Mar 9 12:11:40 2017 +0600
+
+    change demo3
+
+[33mcommit be138b5f4033505a4b4f64167bc68d27b2e693a1[m
+Author: ashfaqul <ashhaq12345@gmail.com>
+Date:   Thu Mar 9 12:09:33 2017 +0600
+
+    Adding third demo
+
+[33mcommit 4710ffea02cbc3d3fd693fdd9d1e4d768c921178[m
+Author: ashfaqul <ashhaq12345@gmail.com>
+Date:   Thu Mar 9 12:08:21 2017 +0600
+
+    second demo creation
+
+[33mcommit 2bfffc771fca5615a1406aa94ddbb109315c88d1[m
+Author: ashfaqul <ashhaq12345@gmail.com>
+Date:   Thu Mar 9 11:37:28 2017 +0600
+
+    Demo files add
+
+[33mcommit cb5307f227c4e3e0dd451c7e91bbba241a575e66[m
+Author: ashhaq12345 <ashhaq12345@gmail.com>
+Date:   Wed Apr 20 02:40:21 2016 +0600
+
+    Added files via upload
+
+[33mcommit 68bf0305b1c926e67767ed06dd770d1b89468612[m
+Author: ashhaq12345 <ashhaq12345@gmail.com>
+Date:   Wed Apr 20 02:39:58 2016 +0600
+
+    Initial commit
